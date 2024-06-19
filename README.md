@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JAXON2003
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning python language
+- 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on programming lessons & updates
 - 📫 How to reach me (jacksondickson188@gmail.com)
 - 😄 Pronouns: Live the Dream
